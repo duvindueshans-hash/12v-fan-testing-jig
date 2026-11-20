@@ -20,3 +20,10 @@ ESP32, INA3221, IR Sensor, Nextion Display, AWS IoT, C++, PCB Design
 
 ## Result
 Enabled faster, accurate bulk testing with automatic test data uploading and centralized monitoring. Reduced manual testing time significantly.
+
+
+
+<img width="702" height="395" alt="image" src="https://github.com/user-attachments/assets/6d93fa64-eda4-4340-8799-aee855017a10" />
+
+
+
