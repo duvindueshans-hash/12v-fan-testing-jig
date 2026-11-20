@@ -23,7 +23,8 @@ Enabled faster, accurate bulk testing with automatic test data uploading and cen
 
 
 
-<img width="702" height="395" alt="image" src="https://github.com/user-attachments/assets/6d93fa64-eda4-4340-8799-aee855017a10" />
+<img width="1040" height="780" alt="WhatsApp Image 2025-11-13 at 22 02 34" src="https://github.com/user-attachments/assets/c0b38999-e756-4bdf-9fa2-ff61f63f08f1" />
+
 
 
 
